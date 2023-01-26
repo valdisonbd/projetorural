@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+$TTL 3600
+@       IN      SOA     ns1.srv2br.com.br.      hostmaster.rural-net.net. (
+                                                2022120805
+                                                3600
+                                                3600
+                                                1209600
+                                                86400 )
+
+rural-net.net.	3600	IN	NS	ns1.srv2br.com.br.
+rural-net.net.	3600	IN	NS	ns2.srv2br.com.br.
+
+ftp	3600	IN	A	177.234.154.10
+mail	3600	IN	A	177.234.154.10
+pop	3600	IN	A	177.234.154.10
+rural-net.net.	3600	IN	A	177.234.154.10
+smtp	3600	IN	A	177.234.154.10
+webmail	3600	IN	A	177.234.154.10
+www	3600	IN	A	177.234.154.10
+
+rural-net.net.	3600	IN	MX	10 mail
+
+
+
+rural-net.net.	3600	IN	TXT	"v=spf1 a mx ip4:177.234.154.10 ~all"
+
+
+
+
+
+
+

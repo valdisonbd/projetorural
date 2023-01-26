@@ -1,0 +1,1975 @@
+# Webalizer V2.23-08 Incremental Data - 01/24/2023 23:48:12
+2023 1 24 23 48 12
+3792 3032 411 69 40 154 81004635 474 298 0
+34 1 158 1 24
+122 87 3136665 44 15 12
+234 189 4075599 53 33 25
+175 147 4834685 63 26 22
+491 442 17618423 53 33 23
+366 323 4916470 21 59 17
+234 176 2463151 37 26 17
+200 163 4254585 52 37 15
+105 69 1582536 37 20 19
+70 57 1383741 26 5 4
+115 61 2163290 20 14 9
+145 123 1598665 31 22 11
+109 97 3042487 38 8 7
+142 110 4674215 45 20 12
+53 40 242947 47 4 3
+129 93 1900277 34 15 11
+190 167 3242079 40 16 11
+203 154 2263724 42 18 11
+125 100 3263556 24 16 11
+86 56 1449931 33 9 7
+213 174 6136632 37 38 21
+23 4 64145 15 6 4
+147 120 3853790 20 15 12
+62 49 1711871 18 5 4
+53 31 1131171 34 14 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+140 111 2899969 12
+212 114 1978405 10
+171 147 5812145 12
+48 9 433005 7
+92 51 610956 46
+114 89 1723037 25
+76 68 1609810 13
+27 22 160979 6
+72 54 1346253 10
+119 88 3487801 17
+474 429 15138982 59
+216 194 6961731 18
+294 251 3481154 24
+188 171 5394187 32
+170 147 1810656 23
+269 208 4198703 31
+153 100 3742215 15
+69 41 486093 11
+171 157 4779167 9
+197 178 4595962 19
+264 217 6365062 30
+111 87 2850959 15
+72 43 542331 13
+73 56 595073 17
+0
+0
+0
+3032
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+19
+0
+0
+0
+0
+0
+0
+733
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/wowslider-init/boundary/style.css
+0 51 0 459183 0 0
+/assets/images/logo-real-link-branco-303x128.png
+0 34 0 193781 0 0
+/assets/wowslider-effect/basic/script.js
+0 58 0 23075 0 0
+/assets/dropdown/js/nav-dropdown.js
+0 56 0 138084 0 0
+/assets/iconsMind/fonts/icons-mindca27.woff
+0 27 0 22374927 0 0
+/assets/dropdown/js/navbar-dropdown.js
+0 60 0 44399 0 0
+/assets/images/logo-real-link02-319x135.png
+0 2 0 20956 0 0
+/assets/tether/tether.min.js
+0 55 0 347803 0 0
+/assets/countdown/jquery.countdown.min.js
+0 2 0 6002 0 0
+/assets/images/internet-day-bro-1001x1001.png
+0 35 0 1494026 0 0
+/assets/wowslider-init/style.css
+0 52 0 10477 0 0
+/assets/parallax/jarallax.min.js
+0 55 0 266138 0 0
+/assets/web/assets/mobirise-icons2/mobirise2.css
+0 54 0 86102 0 0
+/assets/web/assets/mobirise-icons2/mobirise21e04.woff
+0 1 0 25356 0 0
+/assets/images/0cub4kuelv6qjidgfhjfu6.webp
+0 2 0 283281 0 0
+/assets/iconsMind/fonts/icons-mindca27.ttf
+0 3 0 2355506 0 0
+/assets/bootstrap/css/bootstrap-grid.min.css
+0 55 0 329091 0 0
+/assets/tether/tether.min.css
+0 54 0 15518 0 0
+/assets/bootstrap/css/bootstrap-reboot.min.css
+0 55 0 82369 0 0
+/assets/images/02banner-copiar-2-1600x500.jpg
+0 38 0 11843453 0 0
+/assets/socicon/css/styles.css
+0 53 0 150558 0 0
+/assets/mbr-switch-arrow/mbr-switch-arrow.js
+0 56 0 29697 0 0
+/favicon.ico
+0 2 0 34746 0 0
+/assets/images/03banner-copiar-2-1600x500.jpg
+0 39 0 12885380 0 0
+/assets/web/assets/mobirise-icons2/mobirise21e04.ttf
+0 28 0 509534 0 0
+/assets/mbr-testimonials-slider/mbr-testimonials-slider.js
+0 57 0 29538 0 0
+/assets/datepicker/jquery.datetimepicker.full.js
+0 56 0 1008235 0 0
+/assets/web/assets/mobirise-icons/mobirise-icons.css
+0 54 0 89141 0 0
+/assets/images/imagem-mulherpsd-1080x630.png
+0 34 0 2390039 0 0
+/assets/datepicker/jquery.datetimepicker.min.css
+0 54 0 227279 0 0
+/skins/elastic/images/favicon.ico
+0 4 0 69502 0 0
+/assets/formstyler/jquery.formstyler.min.js
+0 55 0 260187 0 0
+/assets/images/sua-serie-png-465x465.png
+0 35 0 944468 0 0
+/assets/images/logo-real-link-288x122.jpg
+0 35 0 844492 0 0
+/assets/smoothscroll/smooth-scroll.js
+0 59 0 188254 0 0
+/assets/viewportchecker/jquery.viewportchecker.js
+0 58 0 72675 0 0
+/i.imgur.com/ryESuZ5.png
+0 35 0 123843 0 0
+/index-2.html
+0 1 0 11274 1 1
+/assets/bootstrap/js/bootstrap.min.js
+0 57 0 822575 0 0
+/assets/touchswipe/jquery.touch-swipe.min.js
+0 58 0 277825 0 0
+/assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js
+0 56 0 75901 0 0
+/assets/images/01banner-85x48.png
+0 38 0 89849 0 0
+/assets/socicon/fonts/socicon.ttf
+0 4 0 349277 0 0
+/assets/formstyler/jquery.formstyler.css
+0 53 0 38349 0 0
+/assets/images/favicon-branco-128x128.png
+0 39 0 72760 0 0
+/internet.html
+0 6 0 28420 3 0
+/assets/Material-Design-Icons/css/material.css
+0 55 0 437247 0 0
+/assets/web/assets/mobirise-icons/mobirise-icons0e1c.ttf
+0 27 0 981750 0 0
+/assets/animatecss/animate.min.css
+0 55 0 254880 0 0
+/assets/mobirise/css/mbr-additional.css
+0 54 0 604286 0 0
+/assets/iconsMind/style.css
+0 53 0 732467 0 0
+/assets/socicon/fonts/socicon.woff2
+0 28 0 1293547 0 0
+/
+0 363 0 6277680 252 53
+/assets/web/assets/jquery/jquery.min.js
+0 58 0 1681019 0 0
+/assets/formstyler/jquery.formstyler.theme.css
+0 39 0 95531 0 0
+/cobertura.html
+0 13 0 51251 6 2
+/assets/theme/js/script.js
+0 58 0 331858 0 0
+/assets/theme/css/style.css
+0 53 0 178274 0 0
+/assets/bootstrap/css/bootstrap.min.css
+0 56 0 1307759 0 0
+/assets/popper/popper.min.js
+0 58 0 374469 0 0
+/assets/images/03banner-copiar-85x48.png
+0 41 0 114098 0 0
+/assets/dropdown/css/style.css
+0 54 0 90115 0 0
+/assets/Material-Design-Icons/fonts/Material-Design-Icons64ea.ttf
+0 1 0 0 0 0
+/assets/formstyler/jquery.formstyler.js
+0 57 0 278052 0 0
+/assets/Material-Design-Icons/fonts/Material-Design-Icons64ea.woff
+0 27 0 1940105 0 0
+/politicadeprivacidade.html
+0 2 0 10653 2 0
+/assets/images/mbr-1920x982.png
+0 19 0 505798 0 0
+/assets/wowslider-plugin/wowslider.js
+0 53 0 545347 0 0
+/assets/wowslider-init/script.js
+0 54 0 64190 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.64.87
+0 66 43 245754 1 1673038641
+-
+207.46.13.77
+0 31 30 212306 3 1674057176
+/
+66.102.8.194
+0 9 9 206729 0 0
+-
+51.222.253.10
+0 39 38 729029 0 0
+-
+34.217.145.55
+0 1 1 11076 1 1672547168
+/
+52.165.32.208
+0 1 1 518 0 0
+-
+40.77.139.81
+0 1 1 141386 0 0
+-
+92.246.90.5
+0 1 1 9997 1 1673974548
+/
+54.36.148.40
+0 1 0 705 0 0
+-
+167.71.98.51
+0 1 1 5910 1 1673219397
+/
+85.201.149.111
+0 1 0 1164 0 0
+-
+13.89.207.213
+0 1 1 1479 0 0
+-
+45.154.98.33
+0 1 1 10898 1 1673979843
+/
+74.84.150.150
+0 11 4 46870 4 1674533701
+/
+103.144.82.133
+0 20 2 127046 1 1672632262
+/
+206.204.30.49
+0 5 4 39789 0 0
+-
+13.86.95.97
+0 1 1 9997 1 1673660674
+/
+157.245.51.201
+0 20 2 127046 1 1674088341
+/
+66.249.74.27
+0 2 1 20452 0 0
+-
+40.77.202.62
+0 5 5 1420708 0 0
+-
+51.222.253.20
+0 39 37 544967 0 0
+-
+13.89.135.18
+0 1 1 2827 0 0
+-
+123.243.47.138
+0 1 0 1164 0 0
+-
+164.163.2.110
+0 18 15 532448 1 1674245236
+/
+51.222.253.7
+0 36 35 835988 3 1674031810
+/
+18.236.240.62
+0 1 1 11076 1 1673843004
+/
+35.89.217.158
+0 1 0 991 0 0
+-
+51.222.253.9
+0 50 48 1308154 3 1673741971
+/
+195.254.246.108
+0 1 0 1164 0 0
+-
+205.210.31.177
+0 1 1 50633 1 1673076450
+/
+23.128.248.210
+0 1 1 10898 1 1673984851
+/
+40.77.167.102
+0 1 0 991 0 0
+-
+34.219.107.173
+0 2 1 11889 1 1673583765
+/
+159.223.148.63
+0 1 0 986 0 0
+-
+24.199.112.38
+0 21 3 177501 1 1673368246
+/
+66.249.88.48
+0 1 0 1169 0 0
+-
+205.210.31.148
+0 1 1 50455 1 1673565274
+/
+40.77.189.1
+0 2 2 62641 0 0
+-
+40.77.190.6
+0 1 1 101968 0 0
+-
+54.185.149.160
+0 2 1 12245 1 1672547179
+/
+18.236.148.63
+0 2 1 11889 1 1672636300
+/
+205.210.31.35
+0 1 1 50633 1 1673400602
+/
+18.236.152.183
+0 2 2 21974 1 1673497175
+/
+157.55.39.117
+0 11 10 79537 0 0
+-
+176.223.123.199
+0 1 0 986 0 0
+-
+102.129.40.35
+0 1 0 986 0 0
+-
+66.249.75.219
+0 2 1 10988 1 1674061201
+/
+40.77.189.49
+0 1 1 116252 0 0
+-
+40.77.100.37
+0 1 1 2683 0 0
+-
+51.222.253.12
+0 28 27 1047052 3 1672855863
+/
+195.191.219.130
+0 8 4 45796 2 1673926242
+/
+66.249.74.119
+0 1 1 1777 0 0
+-
+51.89.29.175
+0 58 55 2746546 1 1672831441
+-
+145.255.72.10
+0 1 0 1452 0 0
+-
+185.220.102.250
+0 1 1 50628 1 1672823653
+/
+66.249.64.85
+0 2 0 2338 1 1672758473
+-
+40.77.167.41
+0 5 0 4955 0 0
+-
+40.86.88.81
+0 1 1 21249 0 0
+-
+173.249.144.152
+0 31 0 45012 0 0
+-
+103.62.48.238
+0 16 3 170241 1 1673642533
+/
+195.191.219.133
+0 8 4 45796 2 1674529019
+/
+216.158.230.167
+0 1 0 986 0 0
+-
+103.18.117.175
+0 5 1 4260 1 1673425638
+/
+81.88.53.60
+0 2 0 2904 0 0
+-
+40.77.190.193
+0 1 1 60519 0 0
+-
+51.222.253.17
+0 45 44 1374686 2 1674065800
+/
+146.59.69.71
+0 15 15 756750 7 1673997670
+/
+36.150.60.34
+0 2 2 1848 1 1674226541
+/
+137.226.113.44
+0 2 0 0 1 1674193245
+/
+40.83.20.48
+0 1 1 5265 0 0
+-
+54.36.148.230
+0 1 0 991 0 0
+-
+35.208.51.137
+0 40 35 238087 1 1673822588
+/cobertura.html
+198.235.24.43
+0 1 1 50455 1 1672574933
+/
+164.163.2.27
+0 122 114 2796542 1 1672948182
+-
+66.249.64.66
+0 56 32 256788 8 1674394561
+/
+54.201.40.98
+0 1 1 11076 1 1673755998
+/
+196.242.200.149
+0 1 1 11076 1 1672827918
+/
+40.77.127.11
+0 1 0 991 0 0
+-
+207.46.13.11
+0 7 7 47981 0 0
+-
+154.7.179.71
+0 1 0 1625 0 0
+-
+54.36.148.57
+0 1 0 991 0 0
+-
+189.0.146.99
+0 65 57 222754 1 1672928249
+-
+146.190.48.204
+0 1 1 4245 1 1673025585
+/cobertura.html
+37.225.79.115
+0 27 26 696836 1 1674207771
+/
+52.165.223.209
+0 1 1 956 0 0
+-
+66.249.64.243
+0 3 0 2973 0 0
+-
+40.86.112.188
+0 1 1 9662 0 0
+-
+34.76.96.55
+0 1 1 11076 1 1672830695
+/
+34.215.189.224
+0 1 1 11076 1 1673151690
+/
+66.249.64.90
+0 2 0 1982 1 1672758474
+-
+198.235.24.52
+0 1 1 50633 1 1673751567
+/
+152.39.216.50
+0 2 2 2798 0 0
+-
+93.158.90.152
+0 2 1 11879 1 1674294867
+/
+40.77.188.44
+0 29 28 1600030 0 0
+-
+58.136.226.224
+0 1 1 10898 1 1672736622
+/
+194.38.20.161
+0 13 0 18876 1 1672632705
+-
+51.222.253.2
+0 40 39 1538751 1 1673234136
+/
+35.90.40.212
+0 1 1 50450 1 1673818468
+/
+103.13.121.162
+0 1 0 986 0 0
+-
+5.189.177.94
+0 1 0 986 0 0
+-
+66.249.75.215
+0 31 29 171151 1 1674061224
+-
+40.77.188.40
+0 1 1 560 0 0
+-
+40.77.139.106
+0 1 1 116252 0 0
+-
+66.249.64.228
+0 3 0 3507 1 1674061223
+-
+54.190.27.72
+0 1 1 11076 1 1672636223
+/
+40.77.190.142
+0 1 1 3464 0 0
+-
+51.222.253.4
+0 39 36 1321371 1 1674217249
+/
+18.236.213.93
+0 2 1 11889 1 1672547226
+/
+207.46.13.181
+0 7 6 41435 1 1673367263
+-
+208.80.194.41
+0 1 1 50450 1 1672929007
+/
+125.31.44.122
+0 1 0 1164 0 0
+-
+54.36.149.39
+0 1 0 705 0 0
+-
+167.248.133.61
+0 6 6 75317 1 1672674178
+/
+167.248.133.119
+0 6 4 28518 1 1674481694
+/
+177.126.112.74
+0 63 57 99427 1 1673438193
+-
+64.246.165.180
+0 2 1 12340 1 1673101716
+/
+185.83.146.154
+0 2 0 2160 0 0
+-
+40.77.188.201
+0 5 5 1420708 0 0
+-
+54.185.162.88
+0 1 1 10898 1 1674188572
+/
+35.153.140.133
+0 1 1 50633 1 1673457671
+/
+93.159.230.87
+0 1 1 11076 1 1672827943
+/
+40.77.189.74
+0 1 1 64841 0 0
+-
+182.215.164.33
+0 1 0 1164 0 0
+-
+139.162.13.133
+0 20 2 127046 1 1672849382
+/
+40.77.188.96
+0 1 1 1402 0 0
+-
+54.191.161.229
+0 1 1 10898 1 1674188384
+/
+185.183.122.143
+0 3 0 2958 0 0
+-
+34.219.120.225
+0 2 1 11889 1 1672636245
+/
+66.249.64.241
+0 2 0 1982 0 0
+-
+93.123.132.168
+0 1 0 1164 0 0
+-
+40.77.167.84
+0 2 0 1410 0 0
+-
+35.197.242.77
+0 21 3 177501 1 1673129477
+/
+3.96.195.230
+0 20 3 176049 1 1672586146
+/
+64.44.42.59
+0 1 0 308 1 1673402995
+/
+54.36.148.255
+0 1 0 705 0 0
+-
+168.151.199.22
+0 4 4 18114 0 0
+-
+54.190.42.229
+0 1 1 10898 1 1673755995
+/
+205.210.31.36
+0 1 1 50633 1 1672750739
+/
+141.135.238.97
+0 1 0 1164 0 0
+-
+2.57.122.244
+0 12 12 93304 1 1673419826
+/
+34.220.253.105
+0 1 1 11076 1 1672636874
+/
+13.57.24.48
+0 1 1 11076 1 1672823632
+/
+64.225.25.232
+0 2 0 2904 0 0
+-
+52.13.24.164
+0 1 1 11076 1 1673151423
+/
+79.137.65.46
+0 1 1 50628 1 1673126493
+/
+34.216.222.110
+0 2 1 11889 1 1673497191
+/
+40.77.190.229
+0 1 1 51805 0 0
+-
+212.73.134.203
+0 7 2 26751 1 1674548495
+-
+45.130.83.91
+0 1 0 986 0 0
+-
+66.102.8.192
+0 13 13 86482 1 1674381687
+/internet.html
+198.98.60.107
+0 1 1 10898 1 1672896079
+/
+91.3.236.13
+0 1 0 1164 0 0
+-
+147.78.47.249
+0 9 0 8874 3 1673434912
+-
+205.169.39.63
+0 64 62 3586184 1 1672827651
+-
+20.199.41.96
+0 20 3 176049 1 1673025999
+/
+80.250.114.239
+0 2 0 2904 0 0
+-
+138.246.253.15
+0 1 1 0 1 1672990149
+/
+51.222.253.19
+0 32 31 335957 0 0
+-
+188.147.8.198
+0 7 6 37251 1 1674207758
+-
+54.187.46.27
+0 1 1 10898 1 1672720424
+/
+207.46.13.142
+0 23 23 86811 1 1672620571
+/cobertura.html
+177.36.247.55
+0 2 1 1772 1 1674245685
+/
+37.225.79.153
+0 8 8 422316 0 0
+-
+45.142.122.213
+0 1 1 10893 1 1673523780
+/
+109.237.98.53
+0 4 0 4320 0 0
+-
+154.66.104.196
+0 57 55 2784440 1 1674355293
+-
+13.67.211.206
+0 1 1 723 0 0
+-
+40.77.188.108
+0 3 3 1181428 0 0
+-
+51.222.253.8
+0 35 34 574740 1 1673980149
+/
+198.235.24.139
+0 1 1 50455 1 1673765702
+/
+52.173.30.214
+0 1 1 6927 0 0
+-
+54.201.86.29
+0 2 1 11889 1 1673150903
+/
+35.166.72.209
+0 2 1 12245 1 1672720410
+/
+13.67.183.138
+0 1 1 5242 0 0
+-
+143.198.90.121
+0 20 2 127046 1 1673019509
+/
+34.220.84.12
+0 2 1 11889 1 1672547199
+/
+18.236.63.67
+0 2 1 12245 1 1673151473
+/
+52.35.85.139
+0 1 1 10898 1 1672720394
+/
+40.77.202.143
+0 1 1 101968 0 0
+-
+13.67.180.133
+0 1 1 11480 0 0
+-
+13.89.204.192
+0 1 1 4545 0 0
+-
+40.69.141.217
+0 1 1 3619 0 0
+-
+40.69.140.14
+0 1 1 5373 0 0
+-
+149.56.150.215
+0 57 55 2784725 1 1674043788
+-
+199.195.252.68
+0 1 1 11076 1 1672949742
+/
+40.77.202.18
+0 5 5 1420708 0 0
+-
+40.77.189.164
+0 1 1 50944 0 0
+-
+54.188.77.158
+0 2 1 11889 1 1672636728
+/
+66.249.64.89
+0 1 1 5242 0 0
+-
+40.77.189.82
+0 1 1 51805 0 0
+-
+146.190.100.212
+0 24 3 180013 3 1673816405
+/
+40.77.190.152
+0 1 1 25621 0 0
+-
+87.250.224.40
+0 2 1 12706 1 1674358610
+/
+52.165.37.106
+0 1 1 1501 0 0
+-
+72.13.62.25
+0 4 3 26819 1 1672686737
+/internet.html
+198.235.24.10
+0 1 1 50633 1 1673023427
+/
+13.67.169.45
+0 1 1 1710 0 0
+-
+40.77.188.132
+0 1 1 25280 0 0
+-
+79.185.75.235
+0 16 14 204771 1 1674207774
+-
+109.130.243.161
+0 1 0 1164 0 0
+-
+207.46.13.7
+0 4 4 13665 0 0
+-
+13.67.182.155
+0 1 1 5166 0 0
+-
+54.186.50.146
+0 1 1 11076 1 1673756031
+/
+40.77.202.132
+0 1 1 1177484 0 0
+-
+180.101.233.7
+0 1 0 1164 0 0
+-
+168.151.184.15
+0 8 8 53866 1 1672827380
+/
+108.16.239.228
+0 1 0 1164 0 0
+-
+40.69.132.240
+0 1 1 639 0 0
+-
+188.147.12.9
+0 4 4 70119 1 1673979284
+/
+18.246.26.91
+0 1 1 10893 1 1672948702
+/
+13.89.206.14
+0 1 1 1910 0 0
+-
+163.172.148.199
+0 1 1 5956 1 1672980666
+/
+107.189.7.88
+0 1 1 10898 1 1673175902
+/
+34.217.65.171
+0 53 51 1364591 1 1672955129
+-
+66.249.79.117
+0 1 1 9997 1 1674163229
+/
+66.249.64.88
+0 19 12 61035 1 1672752769
+/
+76.91.193.199
+0 1 0 1164 0 0
+-
+134.122.123.193
+0 5 1 4260 1 1672638350
+/
+173.208.206.50
+0 4 2 10640 1 1672959021
+/cobertura.html
+35.89.176.175
+0 1 1 11076 1 1673151601
+/
+204.101.161.19
+0 27 27 2672479 0 0
+-
+40.77.190.104
+0 1 1 51464 0 0
+-
+40.77.190.236
+0 2 2 1241996 0 0
+-
+40.77.167.33
+0 20 19 137024 1 1672741824
+-
+54.36.148.188
+0 1 0 705 0 0
+-
+207.46.13.13
+0 15 14 100018 2 1673606633
+-
+54.36.148.127
+0 1 0 705 0 0
+-
+34.221.124.104
+0 1 1 10898 1 1673842988
+/
+116.0.23.145
+0 1 0 1452 0 0
+-
+66.249.75.217
+0 4 4 43433 0 0
+-
+61.147.15.65
+0 1 1 11076 1 1674366521
+/
+66.249.64.239
+0 1 0 991 0 0
+-
+104.43.238.119
+0 1 1 6061 0 0
+-
+93.158.90.136
+0 3 1 12865 1 1673352340
+/
+176.100.243.133
+0 1 1 11071 1 1672826471
+/
+52.41.172.166
+0 1 1 10898 1 1672547212
+/
+199.244.88.219
+0 1 1 10898 1 1673386656
+/
+61.147.15.67
+0 4 2 24134 1 1674366542
+/
+51.222.253.16
+0 33 30 638098 1 1672964520
+/
+187.26.207.92
+0 59 56 112436 1 1673959476
+-
+40.77.189.220
+0 2 2 129353 0 0
+-
+66.249.64.86
+0 74 53 377229 3 1673038631
+/
+51.222.253.5
+0 49 49 442492 1 1674586646
+/
+195.123.241.30
+0 1 1 11076 1 1673002691
+/
+51.222.253.3
+0 42 41 1077083 4 1674136594
+/
+54.36.148.228
+0 1 0 705 0 0
+-
+110.159.139.46
+0 1 0 1164 0 0
+-
+162.55.237.166
+0 1 1 10893 1 1674077532
+/
+207.46.13.134
+0 16 15 123353 0 0
+-
+82.65.32.115
+0 1 0 1164 0 0
+-
+52.12.6.130
+0 2 1 12245 1 1672636250
+/
+202.73.56.34
+0 1 0 986 0 0
+-
+109.206.243.159
+0 4 4 6550 2 1674142907
+/
+104.43.195.96
+0 1 1 4058 0 0
+-
+66.102.8.223
+0 16 14 103330 1 1674381693
+-
+185.220.100.255
+0 1 1 2108 0 0
+-
+40.77.202.147
+0 1 1 25280 0 0
+-
+87.236.176.218
+0 1 1 10893 1 1674158963
+/
+200.81.51.140
+0 58 56 9704 1 1672922869
+-
+52.34.45.160
+0 1 1 11076 1 1673843031
+/
+40.86.64.104
+0 1 1 382 0 0
+-
+51.222.253.13
+0 36 35 896002 3 1673637411
+/
+188.147.134.237
+0 11 11 1446657 2 1674207768
+/
+207.46.13.162
+0 23 21 179305 0 0
+-
+198.235.24.155
+0 1 1 50455 1 1673212411
+/
+40.77.190.51
+0 1 1 51464 0 0
+-
+40.122.237.232
+0 1 1 929 0 0
+-
+163.172.70.215
+0 1 1 50450 1 1672910055
+/
+54.212.241.115
+0 58 55 99427 1 1672847188
+-
+167.248.133.120
+0 6 4 28518 1 1673728917
+/
+35.88.180.185
+0 1 1 11076 1 1672636886
+/
+173.48.94.206
+0 1 0 1164 0 0
+-
+40.77.167.99
+0 2 0 1410 0 0
+-
+20.29.71.239
+0 1 0 991 0 0
+-
+66.249.64.84
+0 1 0 1169 0 0
+-
+40.83.60.61
+0 1 1 3470 0 0
+-
+138.68.153.200
+0 1 1 10893 1 1673051959
+/
+46.101.9.216
+0 4 4 30053 1 1673968709
+/cobertura.html
+93.158.90.162
+0 1 0 986 0 0
+-
+51.222.253.1
+0 45 42 2211200 0 0
+-
+40.77.188.85
+0 1 0 1452 0 0
+-
+205.210.31.133
+0 1 1 50455 1 1674598242
+/
+51.222.253.11
+0 35 35 685877 1 1674058722
+/
+147.182.136.149
+0 21 3 177501 1 1673344767
+/
+98.28.239.65
+0 1 0 1164 0 0
+-
+20.203.221.49
+0 2 0 1982 0 0
+-
+40.77.68.70
+0 1 1 732 0 0
+-
+40.77.189.179
+0 1 1 25621 0 0
+-
+85.209.135.83
+0 2 1 12245 1 1672723881
+/
+157.55.39.182
+0 17 13 86237 5 1673174566
+/
+66.249.79.115
+0 2 1 10988 1 1674162679
+/
+165.227.78.56
+0 1 1 50628 1 1673217722
+/
+192.99.62.110
+0 2 0 1972 0 0
+-
+157.55.39.42
+0 14 14 95962 0 0
+-
+35.164.99.108
+0 1 1 11076 1 1672720396
+/
+93.158.90.169
+0 1 0 986 0 0
+-
+207.46.13.126
+0 7 0 4935 0 0
+-
+223.240.99.104
+0 1 1 10893 1 1674200979
+/
+35.93.89.229
+0 1 1 10893 1 1674549658
+/
+138.246.253.24
+0 2 0 3260 0 0
+-
+40.77.189.227
+0 1 1 52789 0 0
+-
+35.87.244.107
+0 2 1 11889 1 1673843288
+/
+54.36.149.33
+0 1 0 705 0 0
+-
+54.187.232.101
+0 2 1 11889 1 1673756585
+/
+35.245.188.175
+0 1 1 50455 1 1672884079
+/
+66.249.64.226
+0 3 0 3507 0 0
+-
+193.56.29.113
+0 17 0 16847 0 0
+-
+139.59.66.182
+0 1 0 986 0 0
+-
+139.59.157.32
+0 1 1 3950 1 1672686660
+/cobertura.html
+50.96.152.222
+0 1 0 1164 0 0
+-
+154.92.15.129
+0 21 20 218951 1 1673097510
+/
+66.249.64.230
+0 4 1 5798 0 0
+-
+207.46.13.75
+0 10 10 76427 2 1674568499
+/
+40.77.120.177
+0 1 1 11024 0 0
+-
+31.172.80.137
+0 1 0 986 0 0
+-
+13.86.94.176
+0 1 1 7419 0 0
+-
+95.215.39.67
+0 1 1 8697 0 0
+-
+40.77.189.111
+0 1 1 1177753 0 0
+-
+40.77.189.53
+0 2 2 44409 0 0
+-
+65.155.30.101
+0 66 64 3635364 1 1672827509
+-
+35.91.132.85
+0 4 2 23778 1 1672636219
+/
+95.155.205.117
+0 1 0 1164 0 0
+-
+54.190.168.159
+0 1 1 11076 1 1674188567
+/
+66.249.64.83
+0 2 1 6513 0 0
+-
+40.77.167.8
+0 16 15 53097 1 1672614730
+/internet.html
+189.0.159.156
+0 58 56 112436 1 1673871866
+-
+207.46.13.201
+0 17 17 130591 1 1672672369
+/
+66.249.64.64
+0 104 69 931759 13 1674383107
+-
+40.77.139.63
+0 1 1 64512 0 0
+-
+40.77.167.59
+0 20 18 157817 0 0
+-
+40.86.98.204
+0 1 1 3124 0 0
+-
+35.87.75.187
+0 2 1 12245 1 1674275725
+/
+109.239.58.107
+0 1 1 10898 1 1673091500
+/
+157.55.39.171
+0 15 12 78199 3 1674576334
+/politicadeprivacidade.html
+51.158.109.3
+0 1 1 50633 1 1672964242
+/
+51.222.253.18
+0 40 39 1143405 1 1674021668
+/
+52.10.222.59
+0 1 1 11076 1 1674275709
+/
+45.153.193.3
+0 1 0 1164 0 0
+-
+54.36.148.159
+0 2 0 1410 0 0
+-
+157.55.39.160
+0 24 19 134163 5 1674117099
+/
+190.92.137.165
+0 1 0 986 0 0
+-
+40.77.188.238
+0 1 1 7633 0 0
+-
+72.14.201.201
+0 1 1 9704 1 1674405836
+/
+14.116.152.84
+0 1 1 10893 1 1674373339
+/
+40.77.167.87
+0 1 0 991 0 0
+-
+138.197.194.139
+0 1 1 11076 1 1672827551
+/
+40.122.237.139
+0 1 1 14539 0 0
+-
+35.161.233.106
+0 1 1 10898 1 1673150838
+/
+40.77.188.28
+0 1 1 817 0 0
+-
+205.210.31.136
+0 1 1 50455 1 1672786908
+/
+205.210.31.170
+0 1 1 50633 1 1673588110
+/
+213.160.184.15
+0 1 0 1164 0 0
+-
+34.214.29.136
+0 1 1 10898 1 1672636042
+/
+40.77.202.70
+0 1 1 64512 0 0
+-
+13.67.188.78
+0 1 1 19461 0 0
+-
+52.89.77.77
+0 1 1 10898 1 1673583732
+/
+66.249.64.95
+0 176 124 887049 15 1674383106
+-
+185.181.60.39
+0 1 1 10898 1 1673906486
+/
+107.178.239.207
+0 2 0 597 1 1672823630
+/
+168.151.118.246
+0 3 3 142801 0 0
+-
+54.191.62.50
+0 2 2 33609 0 0
+-
+137.184.123.164
+0 1 1 3737 1 1672644035
+/internet.html
+40.77.190.160
+0 1 1 1177749 0 0
+-
+36.150.60.24
+0 9 6 8549 1 1674226788
+/
+205.210.31.14
+0 1 1 50455 1 1673071960
+/
+50.17.48.57
+0 1 1 11076 1 1672823631
+/
+40.77.190.80
+0 2 2 179351 0 0
+-
+13.89.129.137
+0 1 0 991 0 0
+-
+207.46.13.199
+0 3 3 13436 0 0
+-
+189.113.188.22
+0 34 31 966297 1 1674246128
+/
+199.244.88.223
+0 1 1 10898 1 1672674271
+/
+54.36.148.239
+0 1 0 705 0 0
+-
+64.246.161.42
+0 2 1 12340 1 1674563007
+/
+52.165.221.203
+0 1 1 1584 0 0
+-
+85.208.21.170
+0 1 1 10898 1 1672715470
+/
+142.93.63.78
+0 1 1 10898 1 1672853839
+/
+54.70.65.39
+0 1 1 11076 1 1674188385
+/
+51.222.253.6
+0 48 46 1677731 1 1673530398
+/
+14.29.216.170
+0 1 1 10893 1 1674464188
+/
+198.235.24.166
+0 1 1 50633 1 1674592901
+/
+125.179.231.130
+0 1 0 1164 0 0
+-
+40.77.190.77
+0 1 1 25280 0 0
+-
+52.27.9.176
+0 1 1 10898 1 1672635682
+/
+37.225.66.57
+0 10 10 224065 0 0
+-
+40.77.188.30
+0 1 1 102231 0 0
+-
+13.89.227.118
+0 1 1 5429 0 0
+-
+149.56.160.143
+0 8 5 183802 1 1674043771
+/
+51.222.253.14
+0 40 36 1093072 0 0
+-
+186.194.86.250
+0 15 11 1290859 1 1674246129
+-
+139.59.31.73
+0 1 0 986 0 0
+-
+112.4.152.61
+0 1 1 781 1 1674226157
+/
+40.77.167.3
+0 17 17 54637 0 0
+-
+205.169.39.101
+0 81 76 2893935 1 1672865684
+-
+68.69.184.202
+0 3 1 11964 1 1673006910
+/
+40.77.167.81
+0 9 9 27307 0 0
+-
+139.162.189.193
+0 2 0 2904 0 0
+-
+40.77.188.26
+0 2 2 192051 0 0
+-
+40.86.97.225
+0 1 1 6969 0 0
+-
+111.164.182.227
+0 1 0 1164 0 0
+-
+23.99.215.131
+0 1 1 14247 0 0
+-
+157.55.39.48
+0 11 10 79537 0 0
+-
+51.222.253.15
+0 30 30 740071 0 0
+-
+40.77.190.213
+0 1 1 101968 0 0
+-
+40.88.21.235
+0 4 4 26022 2 1672867161
+/
+54.149.61.213
+0 1 1 10898 1 1672547166
+/
+93.158.90.143
+0 1 0 986 0 0
+-
+179.125.14.160
+0 71 68 631252 1 1672653608
+-
+207.46.13.140
+0 27 26 85714 1 1673319846
+-
+40.77.190.143
+0 1 1 1177753 0 0
+-
+40.77.190.177
+0 1 1 1177749 0 0
+-
+208.167.255.163
+0 1 0 289 1 1672923649
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.64.87
+0 1 0 991 0 0
+-
+51.222.253.10
+0 2 2 5895 0 0
+-
+74.84.150.150
+0 3 1 11964 1 1674533701
+/
+51.222.253.20
+0 1 1 4174 0 0
+-
+51.222.253.9
+0 3 3 38362 0 0
+-
+51.222.253.12
+0 2 1 395398 0 0
+-
+195.191.219.133
+0 4 2 22898 1 1674529019
+/
+51.222.253.17
+0 1 1 4855 0 0
+-
+66.249.64.66
+0 1 0 1169 0 0
+-
+194.38.20.161
+0 1 0 1452 0 0
+-
+51.222.253.2
+0 2 2 5971 0 0
+-
+51.222.253.4
+0 1 1 1115 0 0
+-
+40.77.167.84
+0 1 0 705 0 0
+-
+141.135.238.97
+0 1 0 1164 0 0
+-
+212.73.134.203
+0 7 2 26751 1 1674548495
+-
+51.222.253.19
+0 1 1 19072 0 0
+-
+51.222.253.8
+0 2 1 11797 0 0
+-
+66.249.64.88
+0 1 0 991 0 0
+-
+51.222.253.5
+0 1 1 9704 1 1674586646
+/
+51.222.253.3
+0 1 1 571 0 0
+-
+51.222.253.1
+0 2 2 6326 0 0
+-
+205.210.31.133
+0 1 1 50455 1 1674598242
+/
+51.222.253.11
+0 1 1 60 0 0
+-
+98.28.239.65
+0 1 0 1164 0 0
+-
+35.93.89.229
+0 1 1 10893 1 1674549658
+/
+207.46.13.75
+0 1 1 10898 1 1674568499
+/
+157.55.39.171
+0 1 0 0 1 1674576334
+/politicadeprivacidade.html
+51.222.253.18
+0 1 1 394693 0 0
+-
+40.77.167.87
+0 1 0 991 0 0
+-
+66.249.64.95
+0 1 0 1169 0 0
+-
+64.246.161.42
+0 2 1 12340 1 1674563007
+/
+51.222.253.6
+0 1 1 20876 0 0
+-
+198.235.24.166
+0 1 1 50633 1 1674592901
+/
+51.222.253.14
+0 1 1 5674 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.rural-net.net/cobertura.html
+0 3
+https://rural-net.net/internet.html
+0 36
+https://l.instagram.com/
+0 2
+http://www.rural-net.net/assets/socicon/css/styles.css
+0 2
+http://www.rural-net.net/assets/Material-Design-Icons/css/material.css
+0 2
+https://rural-net.net/assets/web/assets/mobirise-icons/mobirise-icons.css
+0 14
+https://www.rural-net.net/assets/mobirise/css/mbr-additional.css
+0 1
+https://rural-net.net/assets/mobirise/css/mbr-additional.css
+0 12
+https://www.rural-net.net/assets/Material-Design-Icons/css/material.css
+0 2
+http://www.rural-net.net/
+0 111
+https://www.rural-net.net/index.html
+0 2
+http://rural-net.net/
+0 346
+https://rural-net.net/assets/iconsMind/style.css
+0 14
+https://www.google.com/
+0 5
+- (Direct Request)
+0 2169
+https://rural-net.net/
+0 915
+https://rural-net.net/assets/socicon/css/styles.css
+0 15
+http://www.rural-net.net/assets/web/assets/mobirise-icons/mobirise-icons.css
+0 2
+https://rural-net.net/assets/web/assets/mobirise-icons2/mobirise2.css
+0 14
+http://www.rural-net.net/assets/mobirise/css/mbr-additional.css
+0 1
+http://rural-net.net/assets/iconsMind/style.css
+0 3
+https://www.bing.com/
+0 2
+https://rural-net.net/cobertura.html
+0 7
+https://www.rural-net.net/assets/socicon/css/styles.css
+0 2
+http://rural-net.net/assets/mobirise/css/mbr-additional.css
+0 4
+http://www.rural-net.net/assets/iconsMind/style.css
+0 2
+http://rural-net.net
+0 13
+https://www.rural-net.net/assets/web/assets/mobirise-icons/mobirise-icons.css
+0 2
+http://rural-net.net/assets/web/assets/mobirise-icons2/mobirise2.css
+0 3
+https://www.bing.com
+0 2
+https://google.com/
+0 1
+http://www.rural-net.net/assets/web/assets/mobirise-icons2/mobirise2.css
+0 2
+http://rural-net.net/assets/images/favicon-branco-128x128.png
+0 2
+http://rural-net.net/assets/Material-Design-Icons/css/material.css
+0 3
+https://rural-net.net/assets/Material-Design-Icons/css/material.css
+0 14
+http://rural-net.net/assets/socicon/css/styles.css
+0 3
+https://www.rural-net.net/assets/iconsMind/style.css
+0 2
+http://rural-net.net/assets/web/assets/mobirise-icons/mobirise-icons.css
+0 3
+https://www.rural-net.net/
+0 52
+https://www.rural-net.net/assets/web/assets/mobirise-icons2/mobirise2.css
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 58
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Focus/1.0 Chrome/59.0.3029.83 Mobile Safar
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+0 2
+ALittle Client
+0 13
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 23
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 58
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 4
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.
+0 1
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 1
+Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 59
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.130 Mobile
+0 255
+Dalvik/2.1.0 (Linux; U; Android 9.0; ZTE BA520 Build/MRA58K)
+0 7
+Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:70.0) Gecko/20100101 Firefox/70.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 57
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50728)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 92
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/http; +http://researchscan.comsys.rwth-aachen.de)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 66
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 64
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 17
+Mozilla/5.0 (Linux; Android 11; SM-A125F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 OP
+0 1
+CATExplorador/1.0beta (sistemes at domini dot cat; https://domini.cat/catexplorador/)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.17656 Chrome/85.0.4183.121 Elec
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/3eZNDnO; b2033f40
+0 40
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 7.0; KNT-AL20 Build/HUAWEIKNT-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (Linux; Android 12; SM-G780G Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 58
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 58
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 135
+Mozilla/5.0 (Linux; Android 10; SM-A505FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 18
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 166
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 80
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBr
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 YaBrowser/21.3.3.230 Yo
+0 1
+Mozilla/5.0 (Linux; Android 12; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 41
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 793
+python-requests/2.28.1
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 37
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 53
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 36
+Mozilla/5.0 (Linux; Android 9; FLA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36 OPR/
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.3809.100 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 63
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 
+0 23
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36
+0 17
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 209
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/65.0.3325.181 Safari/537.36
+0 1
+Java/1.8.0_332
+0 1
+Mozilla/5.0 (Linux; arm_64; Android 7.1.1; Lenovo TB-8504X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 YaBro
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 6
+curl/7.58.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 122
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E14
+0 1
+Mozilla/5.0 (Linux; Android 9.0; Pixel 2 XL Build/PPP4.180612.004; Windows 10 Mobile) AppleWebKit/537.36 (KHTML, like Gecko) 
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/88.0.4298.0 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+Apache-HttpClient/4.5.2 (Java/1.8.0_161)
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.27 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/601.1.27
+0 3
+Mozilla/5.0 (Linux; Android 10; HRY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 3
+python-requests/2.25.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 63
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 9; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 130
+Mozilla/5.0 (Linux; Android 11; SM-A705FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 O
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 14
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-en) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19
+0 1
+Chrome Privacy Preserving Prefetch Proxy
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/104.0.5112.101 Safari/537.36
+0 64
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 20
+test
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+0 1
+Mozilla/5.0 (compatible; ips-agent)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.146
+0 129
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96
+0 10
+Mozilla/5.0 (Linux; Android 10; itel A571W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Sa
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36
+0 1
+Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.1.8) Gecko/20100214 Ubuntu/9.10 (karmic) Firefox/3.5.8
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 4
+quic-go-HTTP/3
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/108.0.5
+0 104
+Mozilla/5.0 (Linux; Android 10; Mi 9T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (iPad; CPU OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/60
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
+0 39
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; Media Center PC 6.0; .NET CLR 3.5.30729; .NET C
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)' Chrome/59.0.3071.115 Safari/537.36
+0 1
+Mozilla/5.0 (Android 10; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J105B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36
+0 65
+Mozilla/5.0 (Linux; U; Android 7.1.2; zh-CN; vivo X9i Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+0 1
+cpp-httplib/0.10.9
+0 15
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.10) Gecko/20071203 Ubuntu/7.10 (gutsy) Firefox/2.0.0.10
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.74 Mobile 
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E14
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.115 Mobile
+0 7
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; sv-se) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 9
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; D3C)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
